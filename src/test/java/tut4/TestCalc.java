@@ -18,11 +18,7 @@ public class TestCalc{
         assertTrue(a==5);
     }
 
-    @Test
-    void testSubtract() {
-        int a = calc.subtract(5, 3);
-        assertTrue(a==2);
-    }
+
 
 }
 //    extends TestCase
